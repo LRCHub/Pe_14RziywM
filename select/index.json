@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "「1」（feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&巡音ルカ）",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-27T06:11:23.377024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "4,3,2,1 (feat. Cannibus, DMX, Method Man & Redman)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/01_4,3,2,1_(feat._Cannibus,_DMX,_Method_Man_&_Redman)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "4, 3, 2, 1 (feat. Redman and Method Man, Cannibus & DMX)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/02_4,_3,_2,_1_(feat._Redman_and_Method_Man,_Cannibus_&_DMX)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Square 1 (Feat. Deptford Goth)",
+      "artist": "Lxury",
+      "has_synced": true,
+      "path": "select/03_Square_1_(Feat._Deptford_Goth)_Lxury.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take 1 (feat. A$AP Rocky)",
+      "artist": "Main Attrakionz",
+      "has_synced": false,
+      "path": "select/04_Take_1_(feat._A$AP_Rocky)_Main_Attrakionz.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Same Time, Pt. 1 (feat. TWENTY88)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/05_Same_Time,_Pt._1_(feat._TWENTY88)_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seven Hours Part 1 (feat. BennY RevivaL)",
+      "artist": "Blood Orange",
+      "has_synced": true,
+      "path": "select/06_Seven_Hours_Part_1_(feat._BennY_RevivaL)_Blood_Orange.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Showin Off Pt.1 (feat. Fivio Foreign)",
+      "artist": "Pop Smoke feat. Fivio Foreign",
+      "has_synced": true,
+      "path": "select/07_Showin_Off_Pt.1_(feat._Fivio_Foreign)_Pop_Smoke_feat._Fivio_Foreign.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Showin Off Pt. 1 (feat. Fivio Foreign)",
+      "artist": "Pop Smoke",
+      "has_synced": true,
+      "path": "select/08_Showin_Off_Pt._1_(feat._Fivio_Foreign)_Pop_Smoke.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Argument 1 (feat. Cristina Scabbia)",
+      "artist": "Ayreon feat. Cristina Scabbia",
+      "has_synced": true,
+      "path": "select/09_The_Argument_1_(feat._Cristina_Scabbia)_Ayreon_feat._Cristina_Scabbia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Like.1 (Feat. Kanye West, Chief Keef, Pusha T, Big Sean, Jadakiss)",
+      "artist": "GOOD Music",
+      "has_synced": true,
+      "path": "select/10_Don't_Like.1_(Feat._Kanye_West,_Chief_Keef,_Pusha_T,_Big_Sean,_Jadakiss)_GOOD_Music.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mercy.1 (Feat. Kanye West, Big Sean, Pusha T, 2 Chainz)",
+      "artist": "GOOD Music",
+      "has_synced": true,
+      "path": "select/11_Mercy.1_(Feat._Kanye_West,_Big_Sean,_Pusha_T,_2_Chainz)_GOOD_Music.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New God Flow.1 (Feat. Kanye West, Pusha T & Ghostface Killah)",
+      "artist": "GOOD Music",
+      "has_synced": true,
+      "path": "select/12_New_God_Flow.1_(Feat._Kanye_West,_Pusha_T_&_Ghostface_Killah)_GOOD_Music.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Grooveline Pt. 1 (feat. Dom Kennedy & Curren$y)",
+      "artist": "Schoolboy Q",
+      "has_synced": true,
+      "path": "select/13_Grooveline_Pt._1_(feat._Dom_Kennedy_&_Curren$y)_Schoolboy_Q.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ching Ching (Part 1) (feat. Nelly Furtado)",
+      "artist": "Ms. Jade",
+      "has_synced": false,
+      "path": "select/14_Ching_Ching_(Part_1)_(feat._Nelly_Furtado)_Ms._Jade.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "1:1 (feat. Yung Lean)",
+      "artist": "Thaiboy Digital & Ecco2k",
+      "has_synced": true,
+      "path": "select/15_1_1_(feat._Yung_Lean)_Thaiboy_Digital_&_Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "With Me, Part 1 (feat. J.D.)",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/16_With_Me,_Part_1_(feat._J.D.)_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "With Me, Part 1 (feat. JD)",
+      "artist": "Destiny's Child",
+      "has_synced": true,
+      "path": "select/17_With_Me,_Part_1_(feat._JD)_Destiny's_Child.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Open Mic Nite, Pt. 1 (feat. Lord Sear, Brother Sambuca, Rodan, and Louis Logic)",
+      "artist": "Viktor Vaughn",
+      "has_synced": false,
+      "path": "select/18_Open_Mic_Nite,_Pt._1_(feat._Lord_Sear,_Brother_Sambuca,_Rodan,_and_Louis_Logic)_Viktor_Vaughn.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "「1」 (feat. 星乃一歌, 天馬咲希, 望月穂波, 日野森志歩 & 巡音ルカ)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_「1」_(feat._星乃一歌,_天馬咲希,_望月穂波,_日野森志歩_&_巡音ルカ)_Leo_need.txt"
+    }
+  ]
+}
